@@ -2,10 +2,6 @@
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/RadinRabiee/github-autofollow-bot?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/RadinRabiee/github-autofollow-bot?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/RadinRabiee/github-autofollow-bot)
-![GitHub License](https://img.shields.io/github/license/RadinRabiee/github-autofollow-bot)
 
 **Supercharge your GitHub network with intelligent, automated networking**
 

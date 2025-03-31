@@ -9,17 +9,11 @@
 
 **Supercharge your GitHub network with intelligent, automated networking**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RadinRabiee/github-autofollow-bot/main/assets/github-bot-banner.png" alt="GitHub Auto-Follow Bot" width="600"/>
-</p>
-
-</div>
 
 ## 💫 What is GitHub Auto-Follow Bot?
 
 A powerful, customizable bot that helps you grow your GitHub presence through strategic and ethical networking. Stop wasting hours manually following users - let the bot handle your network growth while you focus on coding!
 
-> "Finally found a bot that feels natural and doesn't violate GitHub's terms. Gained 500+ followers in a month!" - @DevUser123
 
 ## ✨ Key Features
 
@@ -140,21 +134,6 @@ Expected Results:
 - ~15-30 new followers per day
 - Potential for exponential growth as your profile visibility increases
 
-## 📊 Real World Results
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center"><b>Before</b></td>
-    <td align="center"><b>After 1 Month</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/RadinRabiee/github-autofollow-bot/main/assets/before.png" width="400"/></td>
-    <td><img src="https://raw.githubusercontent.com/RadinRabiee/github-autofollow-bot/main/assets/after.png" width="400"/></td>
-  </tr>
-</table>
-</div>
-
 ## 📜 Ethical Guidelines
 
 This bot is designed for responsible use within GitHub's terms of service:
@@ -172,14 +151,6 @@ This bot is designed for responsible use within GitHub's terms of service:
 - Make GitHub a more interconnected community
 - Learn advanced Python, API handling, and security techniques
 - Join a growing community of ethical networking advocates
-
-## 🔮 Coming Soon
-
-- Web dashboard for monitoring and configuration
-- Advanced analytics on follow-back rates
-- Integration with other platforms (Twitter, LinkedIn)
-- AI-powered repository recommendation engine
-- Multi-account management
 
 ## 👨‍💻 About the Author
 

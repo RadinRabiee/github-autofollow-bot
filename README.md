@@ -1,6 +1,6 @@
 # 🚀 GitHub Auto-Follow Bot
 
-<div align="center">
+
 
 
 **Supercharge your GitHub network with intelligent, automated networking**
